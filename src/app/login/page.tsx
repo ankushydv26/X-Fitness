@@ -15,6 +15,7 @@ const LoginPage = () => {
     console.log('Password:', password);
     // If authentication is successful, redirect to the dashboard or home page
     
+    
   };
 
   return (
